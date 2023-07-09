@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.google.com/search?q=background+programming+banner&tbm=isch&hl=en&sa=X&ved=2ahUKEwic8YnA2oCAAxWot2MGHZaRCGUQrNwCKAB6BQgBEMYC&biw=1519&bih=746#imgrc=_1C1RNgTMIujjM)
 <h1 align="center">Hi 👋, I'm Ranush Sanjula</h1>
 <h3 align="center">Passionate about Software Quality Assurance Engineering</h3></br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
