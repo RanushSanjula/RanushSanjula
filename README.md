@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate student at SLIIT</h3></br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 
-- 🌱 I’m currently learning **React.js,Node.js,Express.js,MongoDB (MERN),Kotlin and Selenium tool**
+- 🌱 I’m currently learning **React.js,Node.js,Express.js,MongoDB (MERN),Springboot**
 
 - 📫 How to reach me **ranushsanjula99@gmail.com**
 </br>
