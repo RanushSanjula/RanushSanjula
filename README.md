@@ -1,9 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ranush Sanjula</h1>
-<h3 align="center">Undergraduate student at SLIIT</h3></br></br>
+<h3 align="center">Graduated from SLIIT</h3></br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 
-- 🌱 I’m currently learning **React.js,Node.js,Express.js,MongoDB (MERN),Springboot**
+- 🌱 I’m currently learning **Cypress,JS,Java,CI/CD**
 
 - 📫 How to reach me **ranushsanjula99@gmail.com**
 </br>
