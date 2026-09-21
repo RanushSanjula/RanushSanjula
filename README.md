@@ -3,7 +3,7 @@
 <h3 align="center">Graduated from SLIIT</h3></br></br>
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 
-- 🌱 I’m currently learning **Cypress,JS,Java,CI/CD**
+- 🌱 I’m currently learning **Playwright,AI-assisted testing,CI/CD**
 
 - 📫 How to reach me **ranushsanjula99@gmail.com**
 </br>
